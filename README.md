@@ -6,6 +6,7 @@ This repository for ESP32 to use Analog Waterproof Capacitive Soil Moisture Sens
 You need to callibrate
 
 AirValue    : sensor value result on air
+
 WaterValue  : sensor value result on water
 
 # Wiring
